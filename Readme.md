@@ -6,3 +6,5 @@ It first chooses a book randomly when the game is first launched or when reloadu
 <p>To install simply put the ESOBible folder into you addons folder and it will work</p>
 
 <p>Bible information provided by https://sites.google.com/site/ruwach/bibletext </p>
+
+<p> I the developer do not expect this program to cause any issues however I am not responsible for anything that may happen. Feel free to do whatever with this software except claim this exact copy as your own.</p>
