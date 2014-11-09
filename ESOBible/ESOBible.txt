@@ -1,0 +1,5 @@
+## Title: ESOBible
+## APIVersion: 100010
+
+Helper.lua
+ESOBible.lua
